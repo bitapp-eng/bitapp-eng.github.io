@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.aatec.bit",
+    "sha256_cert_fingerprints":
+    ["C4:18:73:31:C8:66:F0:FA:2D:80:5C:8A:7E:28:DE:96:68:9D:D3:9A:C9:DB:53:C0:C3:37:7F:17:F0:4A:77:EB"]
+  }
+}]
