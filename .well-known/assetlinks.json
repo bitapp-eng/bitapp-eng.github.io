@@ -24,5 +24,14 @@
       "sha256_cert_fingerprints":
         ["D6:CC:22:D3:5C:76:D0:8B:5E:D7:FC:F3:39:01:97:DB:2A:26:CF:E0:D7:5C:10:C0:ED:24:D4:FB:5E:65:4E:30"]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aatec.bit",
+      "sha256_cert_fingerprints":
+        ["D1:88:C5:59:AC:DF:CA:64:CB:CA:A8:ED:5F:6F:22:02:8F:57:59:CB:5E:01:91:B1:DA:99:0C:8E:85:05:40:12"]
+    }
   }
 ]
